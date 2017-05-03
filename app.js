@@ -1,2 +1,2 @@
-var x = require('./stars.js');
-	console.log(x(10, '*'));
+var x = require('./stars1.js');
+	console.log(x('*'));
